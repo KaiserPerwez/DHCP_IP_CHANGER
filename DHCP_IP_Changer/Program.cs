@@ -16,7 +16,7 @@ namespace DHCP_IP_Changer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new IP_Changer_Form());
         }
     }
 }
